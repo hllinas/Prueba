@@ -1,0 +1,31 @@
+---
+title: "Ejemplo 1.11"
+author: "Dr. rer. nat. Humberto LLinás"
+date: "19/8/2020"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# Enunciado
+Se desea estudiar una muestra de 20 personas para saber la proporción de ellas que tiene más de 40 años. Sabiendo que la proporción en la población es del 40%, ¿cuál es la probabilidad de que la proporción en la muestra sea menor del 50%?
+
+
+# Solución
+
+## 1. Datos
+      a) Unidades experimentales: Estudiantes
+      b) Población: Respuesta a la pregunta: ¿Tiene más de 40 años?
+
+## 2. Supuestos
+     a) ¿np >= 5? Si, porque np=8
+     b) ¿n(1-p)>5? Si, porque da 12. 
+
+
+
+
+
+
